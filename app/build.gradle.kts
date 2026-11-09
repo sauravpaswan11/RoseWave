@@ -30,7 +30,7 @@ android {
   ndkVersion = "28.2.13676358"
 
   defaultConfig {
-    applicationId = "echo.music.iad1tya"
+    applicationId = "com.rosewave.music"
     minSdk = 26
     targetSdk = 36
     versionCode = 166
